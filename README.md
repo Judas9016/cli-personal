@@ -26,7 +26,7 @@ Necesitas tener instalado un compilador de C++. Por ejemplo, si estás en Linux 
 g++ main.cpp -o cli_herramientas.exe
 ```
 
-###2️⃣ **Ejecutar el programa**
+### 2️⃣ **Ejecutar el programa**
 
 Después de compilar, simplemente ejecútalo:
 ```bash
@@ -44,7 +44,7 @@ cli_herramientas.exe
 
 * Un compilador de C++ (g++, clang, Visual Studio, etc.).
 
-### 🎨 **Ejemplo de uso**
+###   🎨 **Ejemplo de uso**
 ```
 Ingresa tu nombre: Juan
 ¡Hola, Juan! Bienvenido al CLI.
@@ -63,5 +63,5 @@ Nivel de seguridad: Muy fuerte
 ### 📝** Notas**
 
 > El programa utiliza códigos de color ANSI para mejorar la visualización en la terminal. Si usas Windows, asegúrate de que la terminal soporte estos códigos (puedes usar Windows Terminal o activar el soporte de VT100).
-> 
+
 > Si llegas a tener problemas con la codificación o la locale (setlocale), puedes eliminar esa línea si tu entorno ya soporta correctamente los caracteres en español.
