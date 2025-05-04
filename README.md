@@ -60,7 +60,7 @@ Ingresa la contraseña para evaluar su nivel de seguridad: Contraseña123!
 Nivel de seguridad: Muy fuerte
 ```
 
-### 📝** Notas**
+### 📝 **Notas**
 
 > El programa utiliza códigos de color ANSI para mejorar la visualización en la terminal. Si usas Windows, asegúrate de que la terminal soporte estos códigos (puedes usar Windows Terminal o activar el soporte de VT100).
 
